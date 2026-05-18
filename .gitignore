@@ -1,0 +1,11 @@
+.env
+.RData
+.RDataTmp
+.Rhistory
+data/raw/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+streamlit_app/.env
+.env

@@ -1,0 +1,7 @@
+variable,r_squared,p_value,direction
+Renter Share,0.633,0,negative
+Population Change,0.348,0.0079,negative
+2024 Price,0.214,0.046,positive
+Rent Level,0.191,0.061,positive
+Income Growth,0.008,0.714,positive
+Permit Growth,0,0.9786,positive

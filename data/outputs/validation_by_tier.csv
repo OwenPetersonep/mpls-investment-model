@@ -1,0 +1,5 @@
+score_tier,n,avg_score,avg_return_pct,median_return,best_zip,worst_zip,pct_positive
+High Opportunity,3,70.5,4.61,4.51,55439,55406,100%
+Moderate Opportunity,9,56.8,5.08,3.94,55424,55430,100%
+Watch List,18,42.1,3.32,4.31,55436,55403,83%
+Lower Priority,12,28.4,1.95,3.54,55415,55435,83%
